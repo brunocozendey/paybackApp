@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/paybackApp/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/paybackApp/static/js/main.01a324c8.chunk.js",
+    "main.js.map": "/paybackApp/static/js/main.01a324c8.chunk.js.map",
+    "runtime-main.js": "/paybackApp/static/js/runtime-main.7eb9333a.js",
+    "runtime-main.js.map": "/paybackApp/static/js/runtime-main.7eb9333a.js.map",
+    "static/js/2.78ca2d95.chunk.js": "/paybackApp/static/js/2.78ca2d95.chunk.js",
+    "static/js/2.78ca2d95.chunk.js.map": "/paybackApp/static/js/2.78ca2d95.chunk.js.map",
+    "static/js/3.fd65e7f9.chunk.js": "/paybackApp/static/js/3.fd65e7f9.chunk.js",
+    "static/js/3.fd65e7f9.chunk.js.map": "/paybackApp/static/js/3.fd65e7f9.chunk.js.map",
+    "index.html": "/paybackApp/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/paybackApp/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.78ca2d95.chunk.js.LICENSE.txt": "/paybackApp/static/js/2.78ca2d95.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/paybackApp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7eb9333a.js",
+    "static/js/2.78ca2d95.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.01a324c8.chunk.js"
+  ]
+}
